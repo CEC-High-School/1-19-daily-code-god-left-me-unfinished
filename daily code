@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+
+int main() {
+	int input;
+	cout << "heeeey ther. whats your name? guess what i dont really care" << endl;
+
+	cout << " *wisphers* but still tell me that age darling" << endl;
+
+	cin >> input;
+
+	cout << "you're playing a text based game and you're" << input << ", you're a life is sad" << endl;
+
+	cin >> input;
+
